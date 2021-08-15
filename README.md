@@ -17,7 +17,7 @@ npx react-native run-android
 npx react-native start
 npx react-native run-android
 ```
-## Run Project
+## Screens :
 
 ![Roadmap](./assets/screenShots/1.JPG)
 ![Roadmap](./assets/screenShots/2.JPG)
