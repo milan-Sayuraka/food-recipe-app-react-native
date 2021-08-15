@@ -67,7 +67,7 @@ const BookMarkedCategory = ({containerStyle, categoryItem, onPress}) => {
                     height: 20,
                     marginTop: -60,
                     // marginRight: SIZES.base,
-                    tintColor: COLORS.darkGreen
+                    tintColor: COLORS.darkBlue
                 }}
                 source={categoryItem.isBookmark ? icons.bookmarkFilled : icons.bookmark}
                 />

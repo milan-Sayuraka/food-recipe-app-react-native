@@ -21,7 +21,7 @@ const TabIcon = ({focused, icon}) => {
             style={{
                 width: 30,
                 height: 30,
-                tintColor: focused ? COLORS.darkGreen : COLORS.lightLime
+                tintColor: focused ? COLORS.darkBlue : COLORS.lightBlue
             }}
             />
 
@@ -34,7 +34,7 @@ const TabIcon = ({focused, icon}) => {
                 bottom: 0,
                 height: 5,
                 borderTopLeftRadius: 5,
-                backgroundColor: COLORS.darkGreen
+                backgroundColor: COLORS.darkBlue
             }}
             />
             }

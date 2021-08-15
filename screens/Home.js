@@ -31,7 +31,7 @@ const Home = ({ navigation }) => {
                 >
                     <Text
                     style={{
-                        color: COLORS.darkGreen,
+                        color: COLORS.darkBlue,
                         ...FONTS.h2
                     }}
                     >Hello Milan,</Text>
@@ -68,7 +68,7 @@ const Home = ({ navigation }) => {
                 marginTop: SIZES.padding,
                 marginHorizontal: SIZES.padding,
                 borderRadius: 10,
-                backgroundColor: COLORS.lightGreen
+                backgroundColor: COLORS.lightBlue
             }}
             >
                 {/* Image */}
@@ -109,7 +109,7 @@ const Home = ({ navigation }) => {
                         >
                             <Text
                             style={{
-                                color:COLORS.darkGreen,
+                                color:COLORS.darkBlue,
                                 textDecorationLine: 'underline',
                                 ...FONTS.h4
                             }}

@@ -31,7 +31,7 @@ const Search = ({ navigation }) => {
                 >
                     <Text
                     style={{
-                        color: COLORS.darkGreen,
+                        color: COLORS.darkBlue,
                         ...FONTS.h2
                     }}
                     >Hello Milan,</Text>

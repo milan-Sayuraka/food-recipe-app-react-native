@@ -94,7 +94,7 @@ const Login = ({ navigation }) => {
                         paddingVertical: 18,
                         borderRadius: 20
                     }}
-                    colors={[COLORS.darkGreen, COLORS.lime]}
+                    colors={[COLORS.blue, COLORS.blue]}
                     onPress={() => navigation.replace("Home")}
                     />
 
@@ -105,7 +105,7 @@ const Login = ({ navigation }) => {
                         marginTop: SIZES.radius,
                         paddingVertical: 18,
                         borderRadius:20,
-                        borderColor: COLORS.darkLime,
+                        borderColor: COLORS.blue,
                         borderWidth: 1
                     }}
                     colors={[]}

@@ -59,7 +59,7 @@ const RecipeCreatorCardDetail = ({selectedRecipe}) => {
                 marginRight: 20,
                 borderRadius: 5,
                 borderWidth: 1,
-                borderColor: COLORS.lightGreen1
+                borderColor: COLORS.lightBlue
             }}
             onPress={() => console.log("View Profile")}
             >
@@ -68,7 +68,7 @@ const RecipeCreatorCardDetail = ({selectedRecipe}) => {
                 style={{
                     width: 15,
                     height: 15,
-                    tintColor: COLORS.lightGreen1
+                    tintColor: COLORS.lightBlue
                 }}
                 />
             </TouchableOpacity>
@@ -173,7 +173,7 @@ const Recipe = ({navigation, route}) => {
                     style={{
                         width: 30,
                         height: 30,
-                        tintColor: COLORS.darkGreen
+                        tintColor: COLORS.darkBlue
                     }}
                     />
                 </TouchableOpacity>

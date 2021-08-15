@@ -40,7 +40,7 @@ const RecipeCardDetails = ({recipeItem}) => {
                     width: 20,
                     height: 20,
                     marginRight: SIZES.base,
-                    tintColor: COLORS.darkGreen
+                    tintColor: COLORS.darkBlue
                 }}
                 source={recipeItem.isBookmark ? icons.bookmarkFilled : icons.bookmark}
                 />
